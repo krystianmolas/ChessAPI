@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\goniec.png",
+      "PackagePath": "staticwebassets\\images\\goniec.png"
+    },
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\król.png",
+      "PackagePath": "staticwebassets\\images\\król.png"
+    },
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\królowa.png",
+      "PackagePath": "staticwebassets\\images\\królowa.png"
+    },
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\pionek.png",
+      "PackagePath": "staticwebassets\\images\\pionek.png"
+    },
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\skoczek.png",
+      "PackagePath": "staticwebassets\\images\\skoczek.png"
+    },
+    {
+      "Id": "C:\\Programowanie\\zadanie ADTG\\ChessAPI\\wwwroot\\images\\wieża.png",
+      "PackagePath": "staticwebassets\\images\\wieża.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ChessAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ChessAPI.props",
+      "PackagePath": "build\\ChessAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ChessAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChessAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ChessAPI.props",
+      "PackagePath": "buildTransitive\\ChessAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
